@@ -1,2 +1,8 @@
-# ga8-excel-22f300016
-GA8 Excel Correlation Heatmap
+# Excel Correlation Heatmap
+
+Submitted by: 22f300016@ds.study.iitm.ac.in
+
+## Files
+- correlation.csv
+- heatmap.png
+- supply_chain_data.csv
